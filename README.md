@@ -62,7 +62,7 @@ The dataset contains two main tables:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/prachisaladiya/Airline-loyalty-analysis/blob/main/Dashboard.png)
 
 > *An interactive Power BI dashboard summarizing campaign performance, customer segmentation, and flight activity trends.*
 
@@ -83,6 +83,7 @@ The dataset contains two main tables:
 ## Project Structure
 
 Airline_Loyalty_Program_Analytics/
+bash
 ├── Dataset/
 │ ├── Customer_Loyalty_History.csv
 │ ├── Customer_Flight_Activity.csv
