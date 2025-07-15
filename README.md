@@ -82,8 +82,8 @@ The dataset contains two main tables:
 
 ## Project Structure
 
+```bash
 Airline_Loyalty_Program_Analytics/
-bash
 ├── Dataset/
 │ ├── Customer_Loyalty_History.csv
 │ ├── Customer_Flight_Activity.csv
