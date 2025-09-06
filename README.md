@@ -1,4 +1,4 @@
-# Airline Loyalty Program Analytics
+# Airline Customer Churn & Loyalty Analytics
   This project was completed as a **self-initiated, unguided project** to showcase my data analysis and storytelling skills using real-world business scenarios.
 
 ## Overview
